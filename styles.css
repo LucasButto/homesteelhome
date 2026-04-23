@@ -565,7 +565,7 @@ footer {
 }
 .footer-logo {
   width: 400px;
-  height: 80px;
+  height: auto;
 }
 .footer-contact {
   text-align: right;
